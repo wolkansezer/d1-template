@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "18eebbef-abe1-4e53-b449-119aad2478d1",
+			"database_name": "sarsinti-api"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
